@@ -10,6 +10,6 @@ dodajDwa(6);
 
 signUpUser("imie", "mail@mail.com", false);
 
-loginUser("imie", "mail@mail.com")
+loginUser("imie", "supermail@mail.com")
 
 export {}
