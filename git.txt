@@ -1,0 +1,6 @@
+git init
+git remote add origin <link>
+git add .
+git commit -m "wiadomosc"
+git branch -M main (tylko raz przy zakładaniu nowego repo)
+git push origin main
